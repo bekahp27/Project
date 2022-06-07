@@ -1,0 +1,117 @@
+body {
+  background: #d1f0ee;
+  padding: 30px;
+}
+.main {
+  max-width: 650px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 25px;
+  padding: 40px 30px 20px 30px;
+}
+div {
+  padding: 0px;
+  margin: 0px;
+}
+
+.upcoming {
+  background: #e8f3dc;
+  border-radius: 25px;
+  padding: 25px;
+  margin-top: 20px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #8ec351;
+}
+
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-size: 14px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  margin: 0px;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 500;
+}
+h2 {
+  font-size: 22px;
+  font-weight: 400;
+}
+h3 {
+  font-size: 18px;
+  text-align: right;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.button {
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  background: #8ec351;
+  color: white;
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  transition: all 400ms ease-in-out;
+}
+
+.button:hover {
+  background: #e8f3dc;
+  cursor: pointer;
+  color: #000000;
+}
+hr.solid {
+  border-top: 3px solid #bbb;
+}
+
+img {
+  width: 80px;
+  display: block;
+  text-align: center;
+  margin: auto;
+}
+
+.mainweather {
+  width: 100px;
+}
+
+.coded {
+  margin-top: 20px;
+  text-transform: none;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #8ec351;
+  border-radius: 10px;
+  padding-top: 0px;
+}
+
+.today {
+  margin-top: 20px;
+}
+
+.search {
+  background: white;
+  border-radius: 15px;
+  padding: 5px;
+  margin-top: 20px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #8ec351;
+}
+
+.vertical-align {
+  vertical-align: middle;
+  padding-top: 10px;
+}
+
+.quick-links {
+  padding: 0px 30px;
+}
